@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"","sources":["../../sass/main.scss","../../sass/color/color.scss","../../sass/text-transform/text.scss","../../sass/padding/padding.scss","../../sass/letter-spacing/letter.scss"],"names":[],"mappings":"AAIA;EACG;EACA;EACA;;;AAGH;EACI;EACA;EACA,OCbQ;;;ADeZ;EACI,gBEhBa;EFiBb,SGhBa;;;AHkBjB;EACI,gBIpBa;EJqBb;EACA,WErBQ;EFsBR,OCtBU","file":"style.css"}

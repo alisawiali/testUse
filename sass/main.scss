@@ -1,0 +1,25 @@
+@use "./color/color.scss";
+@use "./padding/padding.scss";
+@use "./text-transform/text.scss";
+@use "./letter-spacing/letter.scss";
+*{
+   padding: 0;
+   margin: 0;
+   box-sizing: border-box;
+}
+
+#parent {
+    margin: 0 auto;
+    width: 80%;
+    color: color.$color-red;
+}
+#parent h1{
+    text-transform: text.$text-transform;
+    padding: padding.$padding-bottom;
+}
+p{
+    letter-spacing:letter.$letter-spacing ;
+    font-size: 1.3rem;
+    font-size: text.$Font-size;
+    color: color.$color-black;
+}
